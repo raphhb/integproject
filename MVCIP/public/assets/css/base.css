@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+}
+
+li {
+    color: white !important;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.sub-text {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.base-color {
+    background-color: #36302D !important;
+}
+
+button {
+    color: #CCC830 !important;
+}
+
+button:hover {
+    color: #FFF !important;
+}

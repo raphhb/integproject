@@ -1,0 +1,60 @@
+/* Custom CSS for Theater Management page */
+
+/* Reset default margin and padding */
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set font family */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Style for headings */
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* Style for paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+/* Style for unordered lists */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Style for list items */
+li {
+    margin-bottom: 5px;
+}
+
+/* Style for sidebar */
+.col-3 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+/* Style for main content */
+.col-9 {
+    margin-left: 250px; /* Adjust based on sidebar width */
+    padding: 20px;
+}

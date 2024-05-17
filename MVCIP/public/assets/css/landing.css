@@ -1,0 +1,57 @@
+#main-div {
+    background-image: url("/movie/public/assets/landing-bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    
+}
+
+#secondary-div {
+    backdrop-filter: blur(0.07em);
+    height: 100vh;
+}
+
+#contents {
+    background-color: #2D3336;
+}
+
+.browse-button {
+    border: 1px solid white !important;
+    background-color: transparent !important;
+}
+
+#follow-us {
+    font-size: 2rem;
+    color: white;
+    font-weight: 800;
+}
+
+#socials ul li {
+    margin: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+
+#credits {
+    font-size: 0.8rem;
+    color: white;
+    font-weight: 300;
+}
+
+#accent {
+    font-size: 7rem;
+    color: #CCC830 !important;
+}
+
+#logo {
+    font-size: 5rem;
+}
+
+footer #misc ul li {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+#footer-wrapper {
+    padding: 5rem 0 5rem 0;
+}

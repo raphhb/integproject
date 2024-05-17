@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'PoppinsCustom';
+    src: url('/front-page/Poppins/Poppins-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'PoppinsCustom';
+    src: url('/front-page/Poppins/Poppins-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'PoppinsCustom';
+    src: url('/front-page/Poppins/Poppins-ExtraBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'PoppinsCustom';
+    src: url('/front-page/Poppins/Poppins-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'PoppinsCustom';
+    src: url('/front-page/Poppins/Poppins-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'PoppinsCustom';
+    src: url('/front-page/Poppins/Poppins-SemiBold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'PoppinsCustom';
+    src: url('/front-page/Poppins/Poppins-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCustom';
+    src: url('/front-page/Roboto/Roboto-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCustom';
+    src: url('/front-page/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'RobotoCustom';
+    src: url('/front-page/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'RobotoCustom';
+    src: url('/front-page/Roboto/Roboto-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'RobotoCustom';
+    src: url('/front-page/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+
+body {
+    font-family: 'PoppinsCustom', 'RobotoCustom', sans-serif;
+    font-size: 16px;
+}
